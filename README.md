@@ -1,6 +1,6 @@
 # Atom
 
-Simple API for Atom.
+Simple API for atom.
 
 ## Running Locally
 
